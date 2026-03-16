@@ -9,12 +9,14 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=kpranata911&width=600"  />
+  <a href="https://open.spotify.com/user/kpranata911">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kpranata911&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
 
-<h4 align="center">💻 Tech Stack ⚡</h4>
+<h2 align="center">💻 Tech Stack ⚡</h2>
 
 ###
 
@@ -95,6 +97,15 @@
 <div align="center">
   <a href="https://discord.gg/sUhkwWPk6H" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=6281233554132&text=(pesanmu)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/cilukbot/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://cilukbot.dpdns.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=youtube&label=Triggerbot&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
 
