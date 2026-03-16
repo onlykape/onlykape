@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=10"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=kpranata911&width=600"  />
 </div>
 
 ###
