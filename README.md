@@ -56,7 +56,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/onlykape/onlykape/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/onlykape/onlykape/output/snake.svgoutput\snake.svg" alt="Snake animation" />
 
 ###
 
