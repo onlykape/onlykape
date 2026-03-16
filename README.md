@@ -9,6 +9,12 @@
 ###
 
 <div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=10"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
@@ -67,9 +73,5 @@
 <img src="https://raw.githubusercontent.com/onlykape/onlykape/output/snake.svg" alt="Snake animation" />
 
 ### -->
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=10"  />
-</div>
 
 ###
